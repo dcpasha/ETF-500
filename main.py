@@ -1,6 +1,6 @@
 import pandas_datareader.data as web # To import financial data directly into python
 import matplotlib.pyplot as plt
-import scipy
+import scipy.stats
 import openpyxl  # To save file to the excel
 
 start = "2015-01-01"
